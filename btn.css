@@ -1,0 +1,28 @@
+.btn {
+  color: red;
+  background-color:white;
+  width: 15%;
+  border-radius: 20px;
+  margin: 40px;
+  box-shadow: 5px 5px 5px black ;
+  border-color: #0ff;
+}
+
+.btn2 {
+  background-color: #0ff;
+  border-radius: 20px;
+  width: 40px;
+  height: 40px;
+  font-size: 35px;
+  color: aliceblue;
+  border: none;
+}
+
+.btn3 {
+  margin: 25px;
+  width: 100px;
+  background-color: saddlebrown;
+  color: white;
+  box-shadow: 10px 5px 5px black;
+ 
+}
