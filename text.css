@@ -1,0 +1,17 @@
+h1 {
+  background-color: black;
+  color: white;
+}
+.extra{
+  color: aqua;
+}
+.projects{
+  background-color: purple;
+  text-align: center;
+}
+h2 {
+  background-color: blue;
+  text-align: right;
+  color: white;
+  text-decoration: underline;
+}
